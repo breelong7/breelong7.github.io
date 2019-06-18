@@ -25,5 +25,5 @@ A growth mindset is a personal belief that you can do anything you set your mind
 - Embrace a challenge
 - Gives yourself the positive recognition you deserve!
 - Be curious & keep an open mind
--Be patient. Don't worry if you don't understand something right away. At some point, everyone found themselves in a position where they didn't understand!
+- Be patient. Don't worry if you don't understand something right away. At some point, everyone found themselves in a position where they didn't understand!
 - [Visit this site](https://www.prodigygame.com/blog/growth-mindset-in-students/) for more info
