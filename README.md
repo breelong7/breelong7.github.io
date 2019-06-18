@@ -21,7 +21,7 @@ A growth mindset is a personal belief that you can do anything you set your mind
 3. Become a mathmetician (even if you thought you really hated math!)
 4. Become a pilot, astronaut, or even a pro skateboarder!
 
-**_"That all sounds really cool. Where do I even begin?"_** Here are some tips for motivating yourself to keep a growth mindset top-of-mind
+**_"That all sounds really cool. Where do I even begin?"_** Here are some pro tips for motivating yourself to keep a growth mindset top-of-mind
 - Embrace a challenge
 - Gives yourself the positive recognition you deserve!
 - Be curious & keep an open mind
