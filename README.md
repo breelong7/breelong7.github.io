@@ -5,6 +5,7 @@ This is my **learning journal**. A page dedicated to my journey down the path of
 - I am part owner of a farm in Wales that was established in the 1600s
 - I live in Tacoma and definitely got stuck in traffic driving up to Seattle today!
 - I like beer
+
 ![Me!](pups.jpg)
 
 ## Now, let's get to the good stuff-
