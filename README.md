@@ -1,4 +1,4 @@
-# Thanks for visiting **Bree's page**!
+
 
 This is my **learning journal**. A page dedicated to my journey down the path of continuous improvement and dedication to a growth mindset! [Check out my portfolio page](https://github.com/breelong7?tab=repositories) for the most up to date content!
 Here is a little more about yours truly-
