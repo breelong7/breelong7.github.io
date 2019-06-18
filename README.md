@@ -9,6 +9,7 @@ Here is a little more about yours truly-
 
 ![Me!](pups.jpg)
 
+Contact me any time at **breelong7@gmail.com**
 ## Now, let's get to the good stuff-
 
 **_"What is a growth mindset?"_** you ask? Well my friend, let me tell you!
