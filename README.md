@@ -28,3 +28,26 @@ A growth mindset is a personal belief that you can do anything you set your mind
 - Be patient
   - Don't worry if you don't understand something right away. At some point, everyone found themselves in a position where they didn't understand!
 - [Visit this site](https://www.prodigygame.com/blog/growth-mindset-in-students/) for more info
+
+## June 19, 2019 Journal Entry
+### The Coder's Computer
+
+Today was a bit challenging! I am very new to technical terms when it comes to operating systems, file systems, and things of that nature. I enjoyed learning about the CUI.
+VS Code looks like a really great tool for coding! I used it a bit in 101 and I'm excited to learn more about how to utilize it plus the extensions.
+
+
+### Have you ever pondered the importance of text editors? Want to learn more about terminals? Look no further!~
+
+#### Text Editors 101
+Choosing a text editor is no easy task! It boils down to a personal choice, since there are so many great tools out there. 
+
+**So what is a text editor?** A text editor is a type of computer program that edits plain text. Software programmers and web developers use text editors to write and edit in programming and markup languages. This is one of the primary purposes of text editors, and many of the features of text editing software are built to help these users read and write code. The text editor that you choose should be the one that you enjoy the most! As long as it is able to fulfill it's primary purpose to successfully make a website to your satisfaction.
+
+A great feature of any text editing software is code completion. Code completion allows you to start typing, and the code completion feature will display possible suggestions based on what you originally typed.
+
+Another feature you should definitely look into is called syntax highlighting. Syntax highlighting is a feature that takes the text you type, and makes it more noticeable by colorizing the text.
+
+The next feature that you should look for in a text editor is a nice series of themes. These themes will allow you to change the color of the background of your text editor, the series of colors in your text, and sometimes themes will affect other aspects of your text editing software as well. Usually, web developers use a dark background and brightly colored text. This combination seems to be easier on the eyes.
+
+The computers that you purchase will have a built-in text editor (different editors for different operating systems) that you should check out. Keep in mind - most of the built in editors do not have more advanced features like syntax highlighting.
+
