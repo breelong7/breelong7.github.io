@@ -90,3 +90,5 @@ Good navigation is:
   **Values** specify the setting you want to use for the chosen properties. For example, if you want to specify a color property then the value is the color you want the text in these elements to be.
 
   Link CSS files in your HTML files to apply the styling.
+
+  Get your skeleton in place first. Capture each tag first. Then go through each tag and define what it will look like
