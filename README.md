@@ -51,3 +51,27 @@ The next feature that you should look for in a text editor is a nice series of t
 
 The computers that you purchase will have a built-in text editor (different editors for different operating systems) that you should check out. Keep in mind - most of the built in editors do not have more advanced features like syntax highlighting.
 
+#### All Things Terminals!
+
+A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+
+When you enter commands, they are actually stored in a history. You can traverse this history using the up and down arrow keys. So don't bother re-typing out commands you have previously entered, you can usually just hit the up arrow a few times. You can also edit these commands using the left and right arrow keys to move the cursor where you want.
+
+The **pwd** command (stands for Present Working Directory) is a common command.
+The **ls** command is short for list which will give us a list of contents in our current directory if run without arguments.
+
+Files or directories on the command line refer to a path. A path means to get to a particular file or directory on the system.
+There are 2 types of paths we can use, absolute and relative. Whenever we refer to a file or directory we are using one of these paths. Whenever we refer to a file or directory, we can, in fact, use either type of path (either way, the system will still be directed to the same location).
+
+t the very top of the structure is what's called the root directory. It is denoted by a single slash ( / ). It has subdirectories, they have subdirectories and so on. Files may reside in any of these directories.
+
+Absolute paths specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )
+
+Relative paths specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
+
+Here are some more building blocks you may use to help build your paths.
+
+~ (tilde) - This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
+. (dot) - This is a reference to your current directory. eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy).
+.. (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
+
