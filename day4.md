@@ -91,4 +91,29 @@ Good navigation is:
 
   Link CSS files in your HTML files to apply the styling.
 
-  Get your skeleton in place first. Capture each tag first. Then go through each tag and define what it will look like
+  Get your skeleton in place first. Capture each tag first. Then go through each tag and define what it will look like  
+
+  ## Learning javaScript, Woooo!
+
+  Statements - a script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a **statement**. Statements should end with a semicolon ;
+  Statements are instructions and each one starts on a new line.
+
+  You should write comments to explain what your code does. This can help yourself and others who read your code.
+
+  A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables. A variable is a good name for this concept because the data stored in a variable can change each time a script runs.
+
+  Before you can use variables you have to declare them - or announce how you want to use it. If a variable is more than one word, the words will be written in camelCase
+  
+  Once you have created a variable, you can tell it what information you would like it to store for you. This is called assigning a value to a variable.
+
+  *A variables name should describe the kind of data it holds*
+
+  Javascript distinguishes between numbers, strings, and true or false values known as Booleans. These true or false values can trigger different CSS class rules.
+
+  ### Six rules for giving variable names
+  1. The name must begin with a letter, dollary sign, or an underscore. It must **not** start with a number
+  2. The name can contain letters, numbers, dollar sign, or an underscore. Note that you must not use dash or a period in a variable name
+  3. You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something. For example, var is a keyword used to declare a variable. Reserved words are ones that may be used in a future version or JavaScript.
+  4. All variables are case sensitive, so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases.
+  5. Use a name that describes the kind of information that the variable stores. For example, firstName might be used to store a person's first name, lastName for their last name, and age for their age.
+  6. If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. For example firstName rather than firstname. You can also use and underscore between each word.
