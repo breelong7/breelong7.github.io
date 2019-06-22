@@ -6,6 +6,7 @@ This is my **learning journal**. A page dedicated to my journey down the path of
 - [Day 1](day1.md)
 - [Day 2](day2.md)
 - [Day 3](day3.md)
+- [Day 4] (day4.md)
 
 Here is a little more about yours truly-
 - I absolutely love dogs! I have two of my own, hoping to start a dog rescue one day

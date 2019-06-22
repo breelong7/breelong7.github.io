@@ -1,4 +1,4 @@
-# Learning Journal Day 2 - June 19, 2019
+# Learning Journal Day 3 - June 21, 2019
 
 This is my learning journal from day 3! Shocked I made it this far to be honest..
 
