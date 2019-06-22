@@ -77,3 +77,16 @@ Good navigation is:
   - Each link should be big enough to click and change appearnce when users hover over it
 - Consistent
   - Keep primary navigation exactly the same          
+
+  ## Design with CSS
+  ### What is CSS? How to control the design to make your webpages more attractive. CSS associates style rules with HTML elements
+
+  Rules contain two parts: a selector and a declaration.
+  **Selectors** indicate which element the rule applies to. The same rule can apply to more than one element if you separate the element names with commas.
+
+  **Declarations** indicate how the elements referred to in the selector should be styled. 
+  Declarations sit inside curly brackets and each is made up of two parts - property and value, separated by a colon.
+  **Properties** indicate the aspects of the element you want to change. For example, color, font, width, height and border.
+  **Values** specify the setting you want to use for the chosen properties. For example, if you want to specify a color property then the value is the color you want the text in these elements to be.
+
+  Link CSS files in your HTML files to apply the styling.
