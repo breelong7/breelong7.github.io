@@ -7,6 +7,9 @@ This is my **learning journal**. A page dedicated to my journey down the path of
 - [Day 2](day2.md)
 - [Day 3](day3.md)
 - [Day 4](day4.md)
+- [Day 4.2](day4-2.md)
+- [Day 5](day5.md)
+- [Day 6](day6.md)
 
 
 Here is a little more about yours truly-
