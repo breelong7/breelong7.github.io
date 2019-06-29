@@ -29,6 +29,8 @@ Output
 
 Any number can be represented by 1s and 0s. The system multiplies by 2. Wires store this information
 
+Information is store in cute little things called circuits. Circuits have different types and you can combine them to store and process more complex data!
+
 
 
 
